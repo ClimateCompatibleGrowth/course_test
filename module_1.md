@@ -1,3 +1,4 @@
+---
 title: Module 1
 author: Will Usher
 course: Creating online teaching material on Github
