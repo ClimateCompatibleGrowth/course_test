@@ -1,7 +1,7 @@
 ---
-title: Module 2
+title: Lecture 1 - How to structure a course
 author: Will Usher
-course: Structure of a course
+course: test_course
 ---
 
 # Learning Objectives

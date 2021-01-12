@@ -1,7 +1,7 @@
 ---
-title: Module 1
+title: Lecture 2 - Creating online teaching material on Github
 author: Will Usher
-course: Creating online teaching material on Github
+course: test_course
 ---
 
 # Learning Objectives
