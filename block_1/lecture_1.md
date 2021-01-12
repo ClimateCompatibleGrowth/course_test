@@ -13,16 +13,15 @@ course: Structure of a course
 
 ## Macro structure
 
-### 20 Lecture blocks of an hour
+### Structure of a course
 
-A block consists of:
-
-- 4 mini lectures (10 mins each)
-  - 2.5 pages of lecture notes per mini-lecture (equivalent to 5 slides)
-- 4 quizzes (2 mins each) + 10 min absorption
-  - multiple choice
+- 20 Lecture blocks of an hour. A block consists of:
+  - 4 mini lectures (10 mins each)
+    - 2.5 pages of lecture notes per mini-lecture (equivalent to 5 slides)
+  - 4 quizzes (2 mins each) + 10 min absorption
+    - multiple choice
 - 10 hours of practical work
-  - a set of questions to reconstruct‘stereotypical’ examples in the software)
+  - a set of questions to reconstruct ‘stereotypical’ examples in the software)
   Something like this http://download.glowa-jordan-river.de/Conferences_2006-2010/2006_Statusconference/Tutorials/WEAP_in_One_Hour.pdf but for 10hrs with a common example
 
   - There will be a specific quiz that will be used to grade the outputs.
