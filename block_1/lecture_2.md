@@ -23,7 +23,7 @@ Other media, such as video, slides, data, and interactive graphs, Jupyter notebo
 
 In this mini-lecture, we introduce a powerful text formatting technology called "Markdown" and show you how to write simply formatted text, link to websites, and embed images.
 
-## Introduction to Markdown Syntax
+## Introduction to Markdown
 
 Markdown is a "markup language" which uses symbols to format text. Once you get used to it, markdown is very quick and easy to use, and lets you perform simple formatting tasks
 as fast as you can type, without the need to click buttons, or worry about margins and text-wrapping.
@@ -32,11 +32,100 @@ Markdown is automatically understood (parsed) by a number of websites and conver
 
 By writing markdown, a website can render your text as HTML which is then understood by a web browser. In addition, all the styling, spacing and layout is handled by the web-developer allowing you to focus on the content.
 
+## Markdown Syntax
+
+### Bold and italics
+
+Type `*Italic*` or  `_Italic_` to get *Italic*
+
+Type `**Bold**` or `__Bold__`  to get **Bold**
+
+### Blockquotes
+Type `> Blockquote` to get:
+
+> Blockquote
+
+### Headings
+
+Use `# Heading 1` to `## Heading 2`, `### Heading 3` etc.
+
+### Links
+
+There are two ways to format links:
+```
+[An inline link](http://a.com)
+```
+or
+```
+[Link][1]
+
+This is a good way to record references in a lesson
+
+[1]: http://b.org
+```
+Both appear [like this](http://a.org).
+
+### Lists
+
+Bullet lists can be made with asterix:
+```
+* a
+* bullet
+* list
+```
+or hyphens:
+```
+- a
+- bullet
+- list
+```
+which render as:
+- a
+- bullet
+- list
+
+A numbered list like so:
+```
+1. a
+2. numbered
+3. list
+```
+or like so:
+```
+1) a
+2) numbered
+3) list
+```
+And these render as:
+1) a
+2) numbered
+3) list
+
+### Horizontal rules
+
+You can use a horizontal rule to break up text:
+```
+---
+```
+which looks like this:
+
+---
+
+### Code blocks
+
+It can be useful to format code or data using code blocks. These are formatted using "back ticks" which look like so:
+```
+`a piece of code`
+```
+Use triple back ticks around a block of code.
+
 ## Edit a Markdown document using the Github website
 
 In this section, we will learn how to edit a Markdown document using the Github website.
 
 # Summary
 
-In this module, we learnt how to use basic Markdown syntax.
-We then use the Github website to edit a Markdown document, and publish it online.
+In this module, we learnt Markdown syntax.
+We then used the Github website to edit a Markdown document, and publish it online.
+
+For more information about Markdown, check out the [Commonmark website](https://commonmark.org/) and complete the [tutorial](../tutorial.md).
