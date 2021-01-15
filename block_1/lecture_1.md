@@ -13,7 +13,10 @@ course: test_course
 
 ## Structure of a course
 
+### Introduction
+
 A course consists of 60 hours of study.
+
 This time is split across four types of study:
 - lectures - 20 hours
 - exercises - 10 hours
@@ -28,6 +31,16 @@ Each hour-long block consists of:
 - 4 mini lectures (10 mins each) of around 2.5 pages of text and roughly equivalent to 5 slides of teaching material
 - 4 multiple choice exams (2 mins each)
 - 12 min absorption/reflection/writing exercise
+
+#### Mini-lectures
+
+In ten minutes, it is possible to introduce one or two concepts, motivate the importance of the concept,
+demonstrate the concepts with one or two examples,
+and conclude.
+
+It is important not to try to fit in too much material.
+Instead focus on clear and precise definitions,
+good examples and strong motivations.
 
 ### Exercises
 
