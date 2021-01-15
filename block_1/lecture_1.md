@@ -62,6 +62,31 @@ The course contains 20 hrs reading.
 Assuming a reading speed of 5 pages per hour, this equates to 100 pages.
 The material can include background material from relevant open-licensed text books and open-access journal articles.
 
+## Folder structure
+
+A standard folder structure is used to store the course material which follows the course structure we introduced above.
+
+When creating your course, you'll need to create files and folders with the exact names, and structure here to ensure that the material is published correctly.
+
+```
+├── LICENSE
+├── README.md
+├── block_1
+│   ├── lecture_1.md
+│   ├── lecture_2.md
+│   ├── lecture_...
+│   ├── absorption.md
+│   └── quiz_1.md
+├── block_2
+│   ├── lecture_1.md
+│   ├── lecture_2.md
+│   ├── absorption.md
+│   └── quiz_1.md
+├── block_...
+├── tutorials.md
+└── exercises.md
+```
+
 # Summary
 
 A course consists of 60 hours of study split across four types of study:
