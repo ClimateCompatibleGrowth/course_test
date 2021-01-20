@@ -1,6 +1,5 @@
 ---
 title: Lecture 2 - Creating online teaching material on Github
-author: Will Usher
 course: test_course
 ---
 
@@ -12,7 +11,7 @@ course: test_course
 
 # Lecture Content
 
-## Introduction
+::: notes
 
 Material in the teaching kit is stored primarily using text and images.
 The reason for this is that text allows quick and easy editing. It is possible to track and attribute changes, fix errors and extend the material.
@@ -23,7 +22,11 @@ Other media, such as video, slides, data, and interactive graphs, Jupyter notebo
 
 In this mini-lecture, we introduce a powerful text formatting technology called "Markdown" and show you how to write simply formatted text, link to websites, and embed images.
 
-## Introduction to Markdown
+:::
+
+## Markdown Syntax
+
+::: notes
 
 Markdown is a "markup language" which uses symbols to format text. Once you get used to it, markdown is very quick and easy to use, and lets you perform simple formatting tasks
 as fast as you can type, without the need to click buttons, or worry about margins and text-wrapping.
@@ -32,7 +35,7 @@ Markdown is automatically understood (parsed) by a number of websites and conver
 
 By writing markdown, a website can render your text as HTML which is then understood by a web browser. In addition, all the styling, spacing and layout is handled by the web-developer allowing you to focus on the content.
 
-## Markdown Syntax
+:::
 
 ### Bold and italics
 
@@ -65,7 +68,7 @@ This is a good way to record references in a lesson
 ```
 Both appear [like this](http://a.org).
 
-### Lists
+### Bullet Lists
 
 Bullet lists can be made with asterix:
 ```
@@ -80,9 +83,12 @@ or hyphens:
 - list
 ```
 which render as:
+
 - a
 - bullet
 - list
+
+### Numbered Lists
 
 A numbered list like so:
 ```
@@ -97,6 +103,7 @@ or like so:
 3) list
 ```
 And these render as:
+
 1) a
 2) numbered
 3) list

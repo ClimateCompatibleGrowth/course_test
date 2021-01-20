@@ -1,6 +1,6 @@
 ---
 title: Lecture 1 - How to structure a course
-author: Will Usher
+contributors: willu47
 course: test_course
 ---
 
