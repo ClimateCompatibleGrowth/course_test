@@ -18,6 +18,7 @@ course: test_course
 A course consists of 60 hours of study.
 
 This time is split across four types of study:
+
 - lectures - 20 hours
 - exercises - 10 hours
 - tutorials - 10 hours
@@ -28,6 +29,7 @@ This time is split across four types of study:
 A course contains 20 lecture blocks of one hour.
 
 Each hour-long block consists of:
+
 - 4 mini lectures (10 mins each) of around 2.5 pages of text and roughly equivalent to 5 slides of teaching material
 - 4 multiple choice exams (2 mins each)
 - 12 min absorption/reflection/writing exercise
@@ -90,6 +92,7 @@ When creating your course, you'll need to create files and folders with the exac
 # Summary
 
 A course consists of 60 hours of study split across four types of study:
+
 - 20 lectures of one hour each, further broken down into 4 mini-lectures, multiple-choice exams and absorption time
 - 10 hours of exercises where the student solves typical problems with the tool
 - 10 hours of tutorials which lead the student through the goal of constructing a simple national model
