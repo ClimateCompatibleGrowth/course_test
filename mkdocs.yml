@@ -5,6 +5,9 @@ edit_uri: edit/mkdocs/docs/
 site_author: Climate Compatible Growth
 copyright: Copyright Climate Compatible Growth 2020
 
+markdown_extensions:
+  - attr_list
+
 theme:
     name: bootstrap4
 

@@ -17,4 +17,7 @@ Block | Elements
 [Block 1](block_1/readme.md) | [Lecture 1](block_1/lecture_1.md)
 | [Quiz 1](block_1/quiz_1.md)
 | [Lecture 2](block_1/lecture_2.md)
+[Block 2](block_2/readme.md) | [Lecture 1](block_2/lecture_1.md)
+| [Quiz 1](block_2/quiz_1.md)
+| [Lecture 2](block_2/lecture_2.md)
 | [Tutorial](tutorial.md)
