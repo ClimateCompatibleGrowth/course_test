@@ -2,8 +2,8 @@ site_name: CCG - Creating Your Teaching Kit
 site_url: https://climatecompatiblegrowth.github.io/course_test/
 repo_url: https://github.com/ClimateCompatibleGrowth/course_test
 edit_uri: edit/mkdocs/docs/
-site_author: Will Usher
-copyright: Copyright Will Usher 2020
+site_author: Climate Compatible Growth
+copyright: Copyright Climate Compatible Growth 2020
 
 theme:
     name: bootstrap4
