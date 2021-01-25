@@ -1,6 +1,7 @@
 ---
 title: Lecture 1 - How to structure a CCG teaching kit
 course: test_course
+type: mini-lecture
 ---
 
 # Learning Objectives

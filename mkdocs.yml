@@ -10,6 +10,7 @@ markdown_extensions:
 
 theme:
     name: bootstrap4
+    custom_dir: custom_theme/
 
 nav:
   - Home: index.md

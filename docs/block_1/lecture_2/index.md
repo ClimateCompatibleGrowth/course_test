@@ -1,7 +1,10 @@
 ---
 title: Lecture 2 - Creating online teaching material on Github
 course: test_course
+type: mini-lecture
 ---
+
+<a href="lecture_2.pptx" download="lecture_2.pptx">Download Slides</a>
 
 # Learning Objectives
 
