@@ -1,7 +1,7 @@
 ---
 title: Block 1
 author: Will Usher
-description:
+type: block
 ---
 
 # Block 1
@@ -14,6 +14,18 @@ description:
 - Use basic Markdown syntax to format text, embed an image and link to other pages
 - Edit a Markdown document using the Github website and view your text rendered as a web page
 
-## Introduction
+## Lecture 1
 
-The CCG project...
+[Short description](lecture_1/index.md)
+
+## Lecture 2
+
+[Short description](lecture_2/index.md)
+
+## Lecture 3
+
+[Short description]()
+
+## Lecture 4
+
+[Short description]()

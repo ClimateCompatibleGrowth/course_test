@@ -1,6 +1,7 @@
 ---
 title: Lecture 2 - Creating online teaching material on Github
 course: test_course
+type: mini-lecture
 ---
 
 # Learning Objectives
@@ -135,4 +136,4 @@ In this section, we will learn how to edit a Markdown document using the Github 
 In this module, we learnt Markdown syntax.
 We then used the Github website to edit a Markdown document, and publish it online.
 
-For more information about Markdown, check out the [Commonmark website](https://commonmark.org/) and complete the [tutorial](../tutorial.md).
+For more information about Markdown, check out the [Commonmark website](https://commonmark.org/) and complete the [tutorial](/tutorial/index.md).

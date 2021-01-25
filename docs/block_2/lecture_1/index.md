@@ -1,12 +1,13 @@
 ---
 title: Lecture 1 - What is an energy system?
 course: test_course
+type: mini-lecture
 ---
 
 # Learning Objectives
 
-- Understand the overall structure of a course
-- Explain the difference between a lecture block, mini-lecture, exercise, tutorial and reading
+- Understand the overall structure of an energy system
+- Explain the difference between a Sankey diagram and a reference energy system
 
 # Lecture Content
 
@@ -77,7 +78,7 @@ Key secondary energy carriers include:
 
 ## A Reference Energy System
 
-![A reference energy system](img/res_1.png){: width=600}
+![A reference energy system](/img/res_1.png){: width=600}
 
 ::: notes
 

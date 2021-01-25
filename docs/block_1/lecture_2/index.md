@@ -4,8 +4,6 @@ course: test_course
 type: mini-lecture
 ---
 
-<a href="lecture_2.pptx" download="lecture_2.pptx">Download Slides</a>
-
 # Learning Objectives
 
 - Explain the rationale for the emphasis on text and images
