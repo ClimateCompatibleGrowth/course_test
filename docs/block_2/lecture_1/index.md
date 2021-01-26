@@ -78,7 +78,7 @@ Key secondary energy carriers include:
 
 ## A Reference Energy System
 
-![A reference energy system](/img/res_1.png){: width=600}
+![A reference energy system](img/res_1.png){: width=600}
 
 ::: notes
 
